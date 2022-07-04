@@ -1,0 +1,4 @@
+[submodule "Lugins"]
+	path = Lugins
+	url = https://github.com/OrganisationForPlayAccount/Lugins.git
+	branch = SILVER_GEM
